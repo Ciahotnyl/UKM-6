@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cia0008.ukm.hw6.MyMojoTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.976 s <<< FAILURE! - in cia0008.ukm.hw6.MyMojoTest
+testSomething(cia0008.ukm.hw6.MyMojoTest)  Time elapsed: 0.911 s  <<< FAILURE!
+java.lang.AssertionError
+	at cia0008.ukm.hw6.MyMojoTest.testSomething(MyMojoTest.java:45)
+
